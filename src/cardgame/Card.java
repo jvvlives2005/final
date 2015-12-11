@@ -2,6 +2,7 @@ package cardgame;
 
 /**
  * A playing card in a standard American deck of cards.
+ * Represents a single card
  *
  * Card instances are immutable.
  */
