@@ -4,4 +4,5 @@ package radiobutton;
  */
 public interface Button
 {
+    //because it said to implement, I guess it means to implement an interface or create one
 }
